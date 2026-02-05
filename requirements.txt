@@ -1,6 +1,7 @@
 nopecha==2.0.1
 selenium==4.38.0
 TwoCaptcha==0.0.1
+customtkinter==5.2.2
 python-telegram==0.19.0
 SpeechRecognition==3.14.3
 anticaptchaofficial==1.0.69
